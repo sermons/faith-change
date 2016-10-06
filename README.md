@@ -1,9 +1,8 @@
-# reveal-skel
-## A Template for Presentations in Reveal.js
+# James 1:19-25, Faith that Demands a Change of Heart (2/10)
 
-[![Travis-CI build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node dependencies](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node dev status](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel#info=devDependencies)
+[![Travis-CI build status](https://travis-ci.org/sermons/faith-change.svg)](https://travis-ci.org/sermons/faith-change)
+[![Node dependencies](https://david-dm.org/sermons/faith-change.svg)](https://david-dm.org/sermons/faith-change)
+[![Node dev status](https://david-dm.org/sermons/faith-change/dev-status.svg)](https://david-dm.org/sermons/faith-change#info=devDependencies)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
