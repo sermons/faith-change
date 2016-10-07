@@ -2,64 +2,61 @@
 # Faith that Demands <br/> a Change of Heart
 ## James 1:19-25
 
->>>
-+ slow to anger 19-20
-+ accept the word 21
-+ not just hearers 22-24
-+ look intently and do
-
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Opening **Question**
+# Q0
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## Outline
-1. Point **One** <span class="hl2">(v1)</span>
-2. Point **Two** <span class="hl2">(v2)</span>
-3. Point **Three** <span class="hl2">(v3)</span>
+1. Slow to **Anger** <span class="hl2">(v19-20)</span>
+2. **Accept** the Word <span class="hl2">(v21)</span>
+3. Not Just **Hearing** <span class="hl2">(v22-24)</span>
+3. Looking **Intently** and **Doing** <span class="hl2">(v25)</span>
 
 ---
-## Point One
+## 1
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Review question for Point **One**
+# Q1
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## Outline
-1. Point *One* <span class="hl2">(v1)</span>
-2. **Point Two** <span class="hl2">(v2)</span>
-3. Point *Three* <span class="hl2">(v3)</span>
 
 ---
-## Point Two
+## 2
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Review question for Point **Two**
+# Q2
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## Outline
-1. Point *One* <span class="hl2">(v1)</span>
-2. Point *Two* <span class="hl2">(v2)</span>
-3. **Point Three** <span class="hl2">(v3)</span>
 
 ---
-## Point Three
+## 3
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Review question for Point **Three**
+# Q3
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## Outline
-1. Point **One** <span class="hl2">(v1)</span>
-2. Point **Two** <span class="hl2">(v2)</span>
-3. Point **Three** <span class="hl2">(v3)</span>
+
+---
+## 4
+
+---
+<!-- .slide: class="Q" data-background="white" -->
+# Q4
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+## Outline
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" class="empty" -->
