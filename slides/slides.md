@@ -3,7 +3,11 @@
 ## James 1:19-25
 
 ---
-## James 1:19-20 <small>(NIV) (p.1/5)</small>
+<!-- .slide: class="Q" data-background="white" -->
+# Q0
+
+---
+## James 1:19-20 <small>(NIV) (p.1/4)</small>
 <span class="hl2">19</span>
 My dear brothers and sisters, **take note** of this: <br/>
 Everyone should be **quick to listen**, <br/>
@@ -14,7 +18,7 @@ because **human anger** does not produce <br/>
 the **righteousness** that **God** desires.
 
 ---
-## James 1:19-20 <small>(NIV) (p.1/5)</small>
+## James 1:21 <small>(NIV) (p.2/4)</small>
 <span class="hl2">21</span>
 Therefore, get rid of all **moral filth** <br/>
 and the **evil** that is so prevalent
@@ -23,7 +27,7 @@ and **humbly accept** the word **planted** in you, <br/>
 which can **save** you.
 
 ---
-## James 1:19-20 <small>(NIV) (p.1/5)</small>
+## James 1:22-24 <small>(NIV) (p.3/4)</small>
 <span class="hl2">22</span>
 Do not merely **listen** to the word, <br/>
 and so **deceive** yourselves. **Do** what it says.
@@ -38,7 +42,7 @@ and, after **looking** at himself, goes away
 and immediately **forgets** what he looks like.
 
 ---
-## James 1:19-20 <small>(NIV) (p.1/5)</small>
+## James 1:25 <small>(NIV) (p.4/4)</small>
 <span class="hl2">25</span>
 But whoever **looks intently** <br/>
 into the **perfect law** that gives **freedom**,
@@ -47,10 +51,6 @@ and **continues** in it — <br/>
 not **forgetting** what they have heard, but **doing** it —
 
 they will be **blessed** in what they **do**.
-
----
-<!-- .slide: class="Q" data-background="white" -->
-# Q0
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -62,6 +62,10 @@ they will be **blessed** in what they **do**.
 
 ---
 ## 1
+<span class="hl2">19</span>
+My dear brothers and sisters, **take note** of this: <br/>
+Everyone should be **quick to listen**, <br/>
+**slow to speak** and **slow to become angry**,
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
