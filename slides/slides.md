@@ -73,7 +73,8 @@ Everyone should be **quick to listen**, <br/>
 
 ---
 <span class="hl2">20 <small>(NASB)</small></span>
-the **anger of man** does not achieve the **righteousness of God**
+the **anger of man** does not achieve <br/>
+the **righteousness of God**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
