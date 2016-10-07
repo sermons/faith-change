@@ -61,11 +61,16 @@ they will be **blessed** in what they **do**.
 3. Looking **Intently** and **Doing** <span class="hl2">(v25)</span>
 
 ---
-## 1
 <span class="hl2">19</span>
-My dear brothers and sisters, **take note** of this: <br/>
 Everyone should be **quick to listen**, <br/>
-**slow to speak** and **slow to become angry**,
+**slow to speak** and **slow to become angry**
+
+>>>
++ *take note*: look, know (impr)
+
+---
+<span class="hl2">20 <small>(NASB)</small></span>
+the **anger of man** does not achieve the **righteousness of God**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
