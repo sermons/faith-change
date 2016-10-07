@@ -5,48 +5,48 @@
 ---
 ## James 1:19-20 <small>(NIV) (p.1/5)</small>
 <span class="hl2">19</span>
-My dear brothers and sisters, take note of this: <br/>
-Everyone should be quick to listen, <br/>
-slow to speak and slow to become angry,
+My dear brothers and sisters, **take note** of this: <br/>
+Everyone should be **quick to listen**, <br/>
+**slow to speak** and **slow to become angry**,
 
 <span class="hl2">20</span>
-because human anger does not produce <br/>
-the righteousness that God desires.
+because **human anger** does not produce <br/>
+the **righteousness** that **God** desires.
 
 ---
 ## James 1:19-20 <small>(NIV) (p.1/5)</small>
 <span class="hl2">21</span>
-Therefore, get rid of all moral filth <br/>
-and the evil that is so prevalent
+Therefore, get rid of all **moral filth** <br/>
+and the **evil** that is so prevalent
 
-and humbly accept the word planted in you, <br/>
-which can save you.
+and **humbly accept** the word **planted** in you, <br/>
+which can **save** you.
 
 ---
 ## James 1:19-20 <small>(NIV) (p.1/5)</small>
 <span class="hl2">22</span>
-Do not merely listen to the word, <br/>
-and so deceive yourselves. Do what it says.
+Do not merely **listen** to the word, <br/>
+and so **deceive** yourselves. **Do** what it says.
 
 <span class="hl2">22</span>
 Anyone who listens to the word <br/>
 but does not do what it says
 
-is like someone who looks at his face in a mirror <br/>
+is like someone who looks at his **face** in a mirror <br/>
 <span class="hl2">24</span>
-and, after looking at himself, goes away
-and immediately forgets what he looks like.
+and, after **looking** at himself, goes away
+and immediately **forgets** what he looks like.
 
 ---
 ## James 1:19-20 <small>(NIV) (p.1/5)</small>
 <span class="hl2">25</span>
-But whoever looks intently <br/>
-into the perfect law that gives freedom,
+But whoever **looks intently** <br/>
+into the **perfect law** that gives **freedom**,
 
-and continues in it — <br/>
-not forgetting what they have heard, but doing it —
+and **continues** in it — <br/>
+not **forgetting** what they have heard, but **doing** it —
 
-they will be blessed in what they do.
+they will be **blessed** in what they **do**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
