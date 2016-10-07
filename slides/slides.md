@@ -108,10 +108,8 @@ Do not merely **listen** to the word, <br/>
 and so **deceive** yourselves. **Do** what it says.
 
 ---
-<span class="hl2">22</span>
-looks at his **face** in a mirror <br/>
 <span class="hl2">24</span>
-and, after **looking** at himself, goes away <br/>
+after **looking** at himself, goes away <br/>
 and immediately **forgets** what he looks like.
 
 ---
