@@ -38,7 +38,7 @@ but does not do what it says
 
 is like someone who looks at his **face** in a mirror <br/>
 <span class="hl2">24</span>
-and, after **looking** at himself, goes away
+and, after **looking** at himself, goes away <br/>
 and immediately **forgets** what he looks like.
 
 ---
@@ -81,7 +81,14 @@ the **anger of man** does not achieve the **righteousness of God**
 ## Outline
 
 ---
-## 2
+<span class="hl2">21</span>
+Get rid of all **moral filth** <br/>
+and the **evil** that is so prevalent
+
+---
+<span class="hl2">21</span>
+**humbly accept** the word **planted** in you, <br/>
+which can **save** you.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -92,7 +99,16 @@ the **anger of man** does not achieve the **righteousness of God**
 ## Outline
 
 ---
-## 3
+<span class="hl2">22</span>
+Do not merely **listen** to the word, <br/>
+and so **deceive** yourselves. **Do** what it says.
+
+---
+<span class="hl2">22</span>
+looks at his **face** in a mirror <br/>
+<span class="hl2">24</span>
+and, after **looking** at himself, goes away <br/>
+and immediately **forgets** what he looks like.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -103,7 +119,19 @@ the **anger of man** does not achieve the **righteousness of God**
 ## Outline
 
 ---
-## 4
+<span class="hl2">25</span>
+But whoever **looks intently** <br/>
+into the **perfect law** that gives **freedom**,
+
+---
+<span class="hl2">25</span>
+and **continues** in it — <br/>
+not **forgetting** what they have heard,
+
+---
+<span class="hl2">25</span>
+but **doing** it — <br/>
+they will be **blessed** in what they **do**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
