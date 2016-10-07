@@ -33,8 +33,8 @@ Do not merely **listen** to the word, <br/>
 and so **deceive** yourselves. **Do** what it says.
 
 <span class="hl2">22</span>
-Anyone who listens to the word <br/>
-but does not do what it says
+Anyone who **listens** to the word <br/>
+but does not **do** what it says
 
 is like someone who looks at his **face** in a mirror <br/>
 <span class="hl2">24</span>
