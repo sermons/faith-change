@@ -67,6 +67,9 @@ Everyone should be **quick to listen**, <br/>
 
 >>>
 + *take note*: look, know (impr)
++ *angry* (ὀργή, swell): settled opposition
+  + vindication, indignation
+  + feeling **wronged**
 
 ---
 <span class="hl2">20 <small>(NASB)</small></span>
