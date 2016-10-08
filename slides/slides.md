@@ -26,6 +26,12 @@ and the **evil** that is so prevalent
 and **humbly accept** the word **planted** in you, <br/>
 which can **save** you.
 
+>>>
++ *moral filth*: defiled, unclean
++ *prevalent*: **abundance** (excess) of evil
++ *humbly*: (attached to previous clause)
++ *accept*: welcome, invite in
+
 ---
 ## James 1:22-24 <small>(NIV) (p.3/4)</small>
 <span class="hl2">22</span>
