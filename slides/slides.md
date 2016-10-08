@@ -31,6 +31,7 @@ which can **save** you.
 + *prevalent*: **abundance** (excess) of evil
 + *humbly*: (attached to previous clause)
 + *accept*: welcome, invite in
++ *save you* (ψυχὰς): your psyche, life, true person
 
 ---
 ## James 1:22-24 <small>(NIV) (p.3/4)</small>
@@ -46,6 +47,9 @@ is like someone who looks at his **face** in a mirror <br/>
 <span class="hl2">24</span>
 and, after **looking** at himself, goes away <br/>
 and immediately **forgets** what he looks like.
+
+>>>
++ magic talisman
 
 ---
 ## James 1:25 <small>(NIV) (p.4/4)</small>
