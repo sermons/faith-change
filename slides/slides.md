@@ -72,11 +72,24 @@ Everyone should be **quick to listen**, <br/>
 + *angry* (ὀργή, swell): settled opposition
   + vindication, indignation
   + feeling **wronged**
++ TODO: bg: ear
+
+---
+<span class="hl2">Jn 2:17</span>
+**Zeal** for Your house will consume Me
+
+>>>
++ But didn't Jesus get angry?
++ did not **sin** in His anger
++ TODO: bg: Jesus clearing temple
 
 ---
 <span class="hl2">20 <small>(NASB)</small></span>
 the **anger of man** does not achieve <br/>
 the **righteousness of God**
+
+>>>
++ TODO: bg: sky, stars + earth
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -94,6 +107,11 @@ and the **evil** that is so prevalent
 >>>
 + *moral filth*: defiled, unclean
 + *prevalent*: **abundance** (excess) of evil
++ e.g. **anger** is dirt
+  + dirt can be **washed** away
+  + not a **part** of you
+  + but often **returns**
++ TODO: bg: mud, dirty face
 
 ---
 <span class="hl2">21</span>
@@ -101,9 +119,11 @@ and the **evil** that is so prevalent
 which can **save** you.
 
 >>>
-+ *humbly*: (attached to previous clause)
++ *humbly* (πραΰτητι): gentle, meek
+  + not low of mind
 + *accept*: welcome, invite in
 + *save you* (ψυχὰς): your psyche, life, true person
++ TODO: bg: plant, shoot
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -123,6 +143,7 @@ and so **deceive** yourselves. **Do** what it says.
 + What kind of church-goer are you:
   + listener of the Word
   + or **doer** of the Word?
++ TODO: bg: necklace, jewelry
 
 ---
 <span class="hl2">24</span>
@@ -135,6 +156,7 @@ and immediately **forgets** what he looks like.
 + Word reveals our true **nature**
 + *forgets*: overlook, disregard
 + *looks like* (ὁποῖος ἦν): what sort he was
++ TODO: bg: face in mirror
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -152,6 +174,7 @@ into the **perfect law** that gives **freedom**,
 >>>
 + *looks intently*: stoop, bend down
 + *law*, *perfect* (complete) and of the *freedom*
++ TODO: bg: Bible
 
 ---
 <span class="hl2">25</span>
@@ -161,6 +184,7 @@ not **forgetting** what they have heard,
 >>>
 + *continue*: remain, persevere
 + *forgetting*: memory, notice, value
++ TODO: bg: notebook? running? 
 
 ---
 <span class="hl2">25</span>
@@ -169,6 +193,7 @@ they will be **blessed** in what they **do**.
 
 >>>
 + *doing*: perform, accomplish, fulfill
++ TODO: bg: construction, hands? 
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
