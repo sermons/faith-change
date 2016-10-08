@@ -9,7 +9,8 @@
 ---
 ## James 1:19-20 <small>(NIV) (p.1/4)</small>
 <span class="hl2">19</span>
-My dear brothers and sisters, **take note** of this: <br/>
+My dear brothers and sisters, <br/>
+**take note** of this: <br/>
 Everyone should be **quick to listen**, <br/>
 **slow to speak** and **slow to become angry**,
 
