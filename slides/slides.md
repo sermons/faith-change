@@ -27,13 +27,6 @@ and the **evil** that is so prevalent
 and **humbly accept** the word **planted** in you, <br/>
 which can **save** you.
 
->>>
-+ *moral filth*: defiled, unclean
-+ *prevalent*: **abundance** (excess) of evil
-+ *humbly*: (attached to previous clause)
-+ *accept*: welcome, invite in
-+ *save you* (ψυχὰς): your psyche, life, true person
-
 ---
 ## James 1:22-24 <small>(NIV) (p.3/4)</small>
 <span class="hl2">22</span>
@@ -48,9 +41,6 @@ is like someone who looks at his **face** in a mirror <br/>
 <span class="hl2">24</span>
 and, after **looking** at himself, goes away <br/>
 and immediately **forgets** what he looks like.
-
->>>
-+ magic talisman
 
 ---
 ## James 1:25 <small>(NIV) (p.4/4)</small>
@@ -100,10 +90,19 @@ the **righteousness of God**
 Get rid of all **moral filth** <br/>
 and the **evil** that is so prevalent
 
+>>>
++ *moral filth*: defiled, unclean
++ *prevalent*: **abundance** (excess) of evil
+
 ---
 <span class="hl2">21</span>
 **humbly accept** the word **planted** in you, <br/>
 which can **save** you.
+
+>>>
++ *humbly*: (attached to previous clause)
++ *accept*: welcome, invite in
++ *save you* (ψυχὰς): your psyche, life, true person
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -118,10 +117,23 @@ which can **save** you.
 Do not merely **listen** to the word, <br/>
 and so **deceive** yourselves. **Do** what it says.
 
+>>>
++ magic talisman
++ What kind of church-goer are you:
+  + listener of the Word
+  + or **doer** of the Word? 
+
 ---
 <span class="hl2">24</span>
 after **looking** at himself, goes away <br/>
 and immediately **forgets** what he looks like.
+
+>>>
++ *looking* (κατανοοῦντι): study carefully
+  + the face of his birth
++ Word reveals our true **nature**
++ *forgets*: overlook, disregard
++ *looks like* (ὁποῖος ἦν): what sort he was
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -135,6 +147,11 @@ and immediately **forgets** what he looks like.
 <span class="hl2">25</span>
 But whoever **looks intently** <br/>
 into the **perfect law** that gives **freedom**,
+
+>>>
++ *looks intently*: stoop, bend down
++ *law*, *perfect* (complete) and of the *freedom*
+
 
 ---
 <span class="hl2">25</span>
