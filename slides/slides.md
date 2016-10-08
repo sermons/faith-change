@@ -118,6 +118,9 @@ and so **deceive** yourselves. **Do** what it says.
 
 >>>
 + magic talisman
++ What kind of church-goer are you:
+  + listener of the Word
+  + or **doer** of the Word? 
 
 ---
 <span class="hl2">24</span>
@@ -125,7 +128,11 @@ after **looking** at himself, goes away <br/>
 and immediately **forgets** what he looks like.
 
 >>>
-+ Word reveals who we are
++ *looking* (κατανοοῦντι): study carefully
+  + the face of his birth
++ Word reveals our true **nature**
++ *forgets*: overlook, disregard
++ *looks like* (ὁποῖος ἦν): what sort he was
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -139,6 +146,11 @@ and immediately **forgets** what he looks like.
 <span class="hl2">25</span>
 But whoever **looks intently** <br/>
 into the **perfect law** that gives **freedom**,
+
+>>>
++ *looks intently*: stoop, bend down
++ *law*, *perfect* (complete) and of the *freedom*
+
 
 ---
 <span class="hl2">25</span>
