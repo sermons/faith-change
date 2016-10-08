@@ -49,7 +49,8 @@ But whoever **looks intently** <br/>
 into the **perfect law** that gives **freedom**,
 
 and **continues** in it — <br/>
-not **forgetting** what they have heard, but **doing** it —
+not **forgetting** what they have heard, <br/>
+but **doing** it —
 
 they will be **blessed** in what they **do**.
 
@@ -121,7 +122,7 @@ and so **deceive** yourselves. **Do** what it says.
 + magic talisman
 + What kind of church-goer are you:
   + listener of the Word
-  + or **doer** of the Word? 
+  + or **doer** of the Word?
 
 ---
 <span class="hl2">24</span>
@@ -152,16 +153,22 @@ into the **perfect law** that gives **freedom**,
 + *looks intently*: stoop, bend down
 + *law*, *perfect* (complete) and of the *freedom*
 
-
 ---
 <span class="hl2">25</span>
 and **continues** in it — <br/>
 not **forgetting** what they have heard,
 
+>>>
++ *continue*: remain, persevere
++ *forgetting*: memory, notice, value
+
 ---
 <span class="hl2">25</span>
 but **doing** it — <br/>
 they will be **blessed** in what they **do**.
+
+>>>
++ *doing*: perform, accomplish, fulfill
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
