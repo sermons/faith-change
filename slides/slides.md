@@ -69,9 +69,13 @@ Everyone should be **quick to listen**, <br/>
 
 >>>
 + *take note*: look, know (impr)
++ *quick to*: swift into
++ *slow*: delay, dull, not prepared
++ e.g. verbal vs non-verbal spouse
 + *angry* (ὀργή, swell): settled opposition
   + vindication, indignation
   + feeling **wronged**
++ e.g. driving seek excuse to honk
 + TODO: bg: ear
 
 ---
@@ -93,7 +97,9 @@ the **righteousness of God**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q1
+## Have I been quick to **listen**,
+## slow to **speak**, and
+## slow to **anger**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
