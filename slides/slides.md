@@ -193,10 +193,38 @@ into the **perfect law** that gives **freedom**,
 >>>
 + *law*, *perfect* (complete) and of the *freedom*
   + **attitude** toward Bible
++ TODO: bg: Bible
+
+---
+<span class="hl2">John 8:31</span>
+If you hold to my **teaching**, <br/>
+you are really my **disciples**.
+
+<span class="hl2">32</span>
+Then you will know the **truth**, <br/>
+and the truth will set you **free**.
+
+>>>
++ free from what? 
+
+---
+<span class="hl2">John 8:34</span>
+Very truly I tell you, <br/>
+everyone who **sins** is a **slave** to sin.
+
+... <span class="hl2">36</span>
+So if the **Son** sets you free, <br/>
+you will be **free indeed**.
+
+---
+<span class="hl2">25</span>
+But whoever **looks intently** <br/>
+into the **perfect law** that gives **freedom**,
+
+>>>
 + *looks intently*: stoop, bend down
   + **slow** down
   + not **rush** to finish
-+ TODO: bg: Bible
 
 ---
 <span class="hl2">25</span>
