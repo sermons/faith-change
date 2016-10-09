@@ -133,7 +133,13 @@ which can **save** you.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q2
+# How do I **react** to <br/> discipline from <br/> the **Word** of God?
+
+>>>
++ **cling** to anger / sin?
+  + try to **justify** it?
++ or humbly **accept** God's truth?
++ Word of **God**, not human authority
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -165,8 +171,15 @@ and immediately **forgets** what he looks like.
 + TODO: bg: face in mirror
 
 ---
+
+>>>
++ TODO: car, owner's manual
+
+---
 <!-- .slide: class="Q" data-background="white" -->
-# Q3
+# Do I view the **Bible** as
+# a magic **amulet** or as
+# the owner's **manual**? 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -178,8 +191,11 @@ But whoever **looks intently** <br/>
 into the **perfect law** that gives **freedom**,
 
 >>>
-+ *looks intently*: stoop, bend down
 + *law*, *perfect* (complete) and of the *freedom*
+  + **attitude** toward Bible
++ *looks intently*: stoop, bend down
+  + **slow** down
+  + not **rush** to finish
 + TODO: bg: Bible
 
 ---
@@ -199,6 +215,7 @@ they will be **blessed** in what they **do**.
 
 >>>
 + *doing*: perform, accomplish, fulfill
++ *blessed* as we *do* God's Word
 + TODO: bg: construction, hands? 
 
 ---
