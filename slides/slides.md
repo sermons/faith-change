@@ -99,7 +99,7 @@ the **righteousness of God**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## Have I been quick to **listen**, <br/> slow to **speak**, and <br/> slow to **anger**?
+# Have I been <br/> quick to **listen**, <br/> slow to **speak**, and <br/> slow to **anger**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -194,7 +194,7 @@ and immediately **forgets** what he looks like.
 ## Outline
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 <span class="hl2">25</span>
 But whoever looks intently <br/>
 into the **perfect law** that gives **freedom**,
