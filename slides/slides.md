@@ -177,9 +177,9 @@ and immediately **forgets** what he looks like.
 
 ---
 <div class="imgbox"><div>
-![car](img/fig/sentra.jpg)
+![car](https://sermons.seanho.com/img/fig/sentra.jpg)
 </div><div>
-![manual](img/fig/ownersmanual.jpg)
+![manual](https://sermons.seanho.com/img/fig/ownersmanual.jpg)
 </div></div>
 
 >>>
