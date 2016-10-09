@@ -187,7 +187,7 @@ and immediately **forgets** what he looks like.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Is the **Bible** <br/> a magic **amulet** <br/> or the <br/> owner's **manual**?
+# Is the Bible <br/> a magic **amulet** <br/> or our <br/> owner's **manual**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -258,7 +258,7 @@ not **forgetting** what they have heard,
 + *continue*: remain, persevere
 + *forgetting*: memory, notice, value
 
---
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
 <span class="hl2">25</span>
 but **doing** it — <br/>
