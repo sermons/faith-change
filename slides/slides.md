@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q0
+# Am I willing <br/> to **change** when <br/> God tells me to?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
