@@ -10,7 +10,8 @@
 ## James 1:19-20 <small>(NIV) (p.1/4)</small>
 <span class="hl2">19</span>
 My dear brothers and sisters, <br/>
-**take note** of this: <br/>
+**take note** of this:
+
 Everyone should be **quick to listen**, <br/>
 **slow to speak** and **slow to become angry**,
 
@@ -56,7 +57,7 @@ they will be **blessed** in what they **do**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## Outline
+## Keep the Faith: A Change of Heart
 1. Slow to **Anger** <span class="hl2">(v19-20)</span>
 2. **Accept** the Word <span class="hl2">(v21)</span>
 3. Not Just **Hearing** <span class="hl2">(v22-24)</span>
@@ -69,18 +70,35 @@ Everyone should be **quick to listen**, <br/>
 
 >>>
 + *take note*: look, know (impr)
++ *quick to*: swift into
++ *slow*: delay, dull, not prepared
++ e.g. verbal vs non-verbal spouse
 + *angry* (ὀργή, swell): settled opposition
   + vindication, indignation
   + feeling **wronged**
++ e.g. driving seek excuse to honk
++ TODO: bg: ear
+
+---
+<span class="hl2">Jn 2:17</span>
+**Zeal** for Your house will consume Me
+
+>>>
++ But didn't Jesus get angry?
++ did not **sin** in His anger
++ TODO: bg: Jesus clearing temple
 
 ---
 <span class="hl2">20 <small>(NASB)</small></span>
 the **anger of man** does not achieve <br/>
 the **righteousness of God**
 
+>>>
++ TODO: bg: sky, stars + earth
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q1
+## Have I been quick to **listen**, <br/> slow to **speak**, and <br/> slow to **anger**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -94,6 +112,11 @@ and the **evil** that is so prevalent
 >>>
 + *moral filth*: defiled, unclean
 + *prevalent*: **abundance** (excess) of evil
++ e.g. **anger** is dirt
+  + dirt can be **washed** away
+  + not a **part** of you
+  + but often **returns**
++ TODO: bg: mud, dirty face
 
 ---
 <span class="hl2">21</span>
@@ -101,13 +124,21 @@ and the **evil** that is so prevalent
 which can **save** you.
 
 >>>
-+ *humbly*: (attached to previous clause)
++ *humbly* (πραΰτητι): gentle, meek
+  + not low of mind
 + *accept*: welcome, invite in
 + *save you* (ψυχὰς): your psyche, life, true person
++ TODO: bg: plant, shoot
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q2
+# How do I **react** to <br/> discipline from <br/> the **Word** of God?
+
+>>>
++ **cling** to anger / sin?
+  + try to **justify** it?
++ or humbly **accept** God's truth?
++ Word of **God**, not human authority
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -123,6 +154,7 @@ and so **deceive** yourselves. **Do** what it says.
 + What kind of church-goer are you:
   + listener of the Word
   + or **doer** of the Word?
++ TODO: bg: necklace, jewelry
 
 ---
 <span class="hl2">24</span>
@@ -135,10 +167,16 @@ and immediately **forgets** what he looks like.
 + Word reveals our true **nature**
 + *forgets*: overlook, disregard
 + *looks like* (ὁποῖος ἦν): what sort he was
++ TODO: bg: face in mirror
+
+---
+
+>>>
++ TODO: car, owner's manual
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q3
+# Is the **Bible** <br/> a magic **amulet** <br/> or the <br/> owner's **manual**? 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -146,12 +184,55 @@ and immediately **forgets** what he looks like.
 
 ---
 <span class="hl2">25</span>
+But whoever looks intently <br/>
+into the **perfect law** that gives **freedom**,
+
+>>>
++ **What** is the Bible?
+  + *law*: objective **truth**
+  + *perfect* (complete): all we need
+    + 1 Tim 3 thoroughly equipped
+  + *freedom*: **fences** bring freedom
++ the **law** gives **freedom**?
+  + Jesus said so, too:
++ TODO: bg: Bible
+
+---
+<span class="hl2">John 8:31</span>
+If you hold to my **teaching**, <br/>
+you are really my **disciples**.
+
+<span class="hl2">32</span>
+Then you will know the **truth**, <br/>
+and the truth will set you **free**.
+
+>>>
++ *hold to* His *teaching*
++ free from what? 
+
+---
+<span class="hl2">John 8:34</span>
+Very truly I tell you, <br/>
+everyone who **sins** is a **slave** to sin.
+
+... <span class="hl2">36</span>
+So if the **Son** sets you free, <br/>
+you will be **free indeed**.
+
+---
+<span class="hl2">25</span>
 But whoever **looks intently** <br/>
 into the **perfect law** that gives **freedom**,
 
 >>>
-+ *looks intently*: stoop, bend down
-+ *law*, *perfect* (complete) and of the *freedom*
++ **power** of God's Word:
+  + compete + **freedom** from sin
++ 4 steps response to Bible:
+  + study &rarr; persevere &rarr;
+  + remember &rarr; do
++ *look intently*: stoop, bend down
+  + **slow** down
+  + not **rush** to finish
 
 ---
 <span class="hl2">25</span>
@@ -161,6 +242,7 @@ not **forgetting** what they have heard,
 >>>
 + *continue*: remain, persevere
 + *forgetting*: memory, notice, value
++ TODO: bg: notebook? running? 
 
 ---
 <span class="hl2">25</span>
@@ -169,6 +251,8 @@ they will be **blessed** in what they **do**.
 
 >>>
 + *doing*: perform, accomplish, fulfill
++ *blessed* as we *do* God's Word
++ TODO: bg: construction, hands? 
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
