@@ -288,6 +288,9 @@ they will be **blessed** in what they **do**.
 >>>
 + *doing*: perform, accomplish, fulfill
 + *blessed* as we *do* God's Word
++ 26 bridle **tongue**
++ 27 look after **orphans** + **widows**
+  + **unstained** by world
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
