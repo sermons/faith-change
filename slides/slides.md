@@ -187,12 +187,17 @@ and immediately **forgets** what he looks like.
 
 ---
 <span class="hl2">25</span>
-But whoever **looks intently** <br/>
+But whoever looks intently <br/>
 into the **perfect law** that gives **freedom**,
 
 >>>
-+ *law*, *perfect* (complete) and of the *freedom*
-  + **attitude** toward Bible
++ **What** is the Bible?
+  + *law*: objective **truth**
+  + *perfect* (complete): all we need
+    + 1 Tim 3 thoroughly equipped
+  + *freedom*: **fences** bring freedom
++ the **law** gives **freedom**?
+  + Jesus said so, too:
 + TODO: bg: Bible
 
 ---
@@ -205,6 +210,7 @@ Then you will know the **truth**, <br/>
 and the truth will set you **free**.
 
 >>>
++ *hold to* His *teaching*
 + free from what? 
 
 ---
@@ -222,7 +228,12 @@ But whoever **looks intently** <br/>
 into the **perfect law** that gives **freedom**,
 
 >>>
-+ *looks intently*: stoop, bend down
++ **power** of God's Word:
+  + compete + **freedom** from sin
++ 4 steps response to Bible:
+  + study &rarr; persevere &rarr;
+  + remember &rarr; do
++ *look intently*: stoop, bend down
   + **slow** down
   + not **rush** to finish
 
