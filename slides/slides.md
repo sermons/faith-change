@@ -10,7 +10,8 @@
 ## James 1:19-20 <small>(NIV) (p.1/4)</small>
 <span class="hl2">19</span>
 My dear brothers and sisters, <br/>
-**take note** of this: <br/>
+**take note** of this:
+
 Everyone should be **quick to listen**, <br/>
 **slow to speak** and **slow to become angry**,
 
@@ -56,7 +57,7 @@ they will be **blessed** in what they **do**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## Outline
+## Keep the Faith: A Change of Heart
 1. Slow to **Anger** <span class="hl2">(v19-20)</span>
 2. **Accept** the Word <span class="hl2">(v21)</span>
 3. Not Just **Hearing** <span class="hl2">(v22-24)</span>
@@ -97,9 +98,7 @@ the **righteousness of God**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## Have I been quick to **listen**,
-## slow to **speak**, and
-## slow to **anger**?
+## Have I been quick to **listen**, <br/> slow to **speak**, and <br/> slow to **anger**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -177,9 +176,7 @@ and immediately **forgets** what he looks like.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Do I view the **Bible** as
-# a magic **amulet** or as
-# the owner's **manual**? 
+# Is the **Bible** <br/> a magic **amulet** <br/> or the <br/> owner's **manual**? 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
