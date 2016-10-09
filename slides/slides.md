@@ -176,7 +176,7 @@ and immediately **forgets** what he looks like.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Is the **Bible** <br/> a magic **amulet** <br/> or the <br/> owner's **manual**? 
+# Is the **Bible** <br/> a magic **amulet** <br/> or the <br/> owner's **manual**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -208,7 +208,7 @@ and the truth will set you **free**.
 
 >>>
 + *hold to* His *teaching*
-+ free from what? 
++ free from what?
 
 ---
 <span class="hl2">John 8:34</span>
@@ -222,7 +222,7 @@ you will be **free indeed**.
 ---
 <span class="hl2">25</span>
 But whoever **looks intently** <br/>
-into the **perfect law** that gives **freedom**,
+into the perfect law that gives freedom,
 
 >>>
 + **power** of God's Word:
@@ -242,7 +242,7 @@ not **forgetting** what they have heard,
 >>>
 + *continue*: remain, persevere
 + *forgetting*: memory, notice, value
-+ TODO: bg: notebook? running? 
++ TODO: bg: notebook? running?
 
 ---
 <span class="hl2">25</span>
@@ -252,7 +252,7 @@ they will be **blessed** in what they **do**.
 >>>
 + *doing*: perform, accomplish, fulfill
 + *blessed* as we *do* God's Word
-+ TODO: bg: construction, hands? 
++ TODO: bg: construction, hands?
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
