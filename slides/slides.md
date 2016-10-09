@@ -60,7 +60,7 @@ they will be **blessed** in what they **do**.
 1. Slow to **Anger** <span class="hl2">(v19-20)</span>
 2. **Accept** the Word <span class="hl2">(v21)</span>
 3. Not Just **Hearing** <span class="hl2">(v22-24)</span>
-3. Looking **Intently** and **Doing** <span class="hl2">(v25)</span>
+4. Looking **Intently** and **Doing** <span class="hl2">(v25)</span>
 
 ---
 <span class="hl2">19</span>
