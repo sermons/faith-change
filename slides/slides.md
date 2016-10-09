@@ -7,6 +7,15 @@
 # Q0
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+## James: **Keep the Faith**
++ Faith that Stands the **Test** <span class="hl2">(1:2-12)</span>
+  + *Joy* in Trials
+  + *Wisdom* Given Generously
+  + *Boasting* in Our Weakness
++ Faith that Demands a **Change** of Heart <span class="hl2">(1:19-25)</span>
+
+---
 ## James 1:19-20 <small>(NIV) (p.1/4)</small>
 <span class="hl2">19</span>
 My dear brothers and sisters, <br/>
@@ -61,7 +70,7 @@ they will be **blessed** in what they **do**.
 1. Shun **Anger** <span class="hl2">(v19-20)</span>
 2. **Accept** the Word <span class="hl2">(v21)</span>
 3. **Act**, Don't Just Listen <span class="hl2">(v22-24)</span>
-4. **Abide** <span class="hl2">(v25)</span>
+4. **Abide** and Obey <span class="hl2">(v25)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bethanypetrik-crying_child.jpg" -->
@@ -103,7 +112,11 @@ the **righteousness of God**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## Outline
+## A Change of Heart
+1. Shun Anger (v19-20)
+2. **Accept the Word** <span class="hl2">(v21)</span>
+3. Act, Don't Just Listen (v22-24)
+4. Abide and Obey (v25)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/flickr-plasticrevolver-228226305-muddy_kid.jpg" -->
@@ -147,7 +160,11 @@ which can **save** you.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## Outline
+## A Change of Heart
+1. Shun Anger (v19-20)
+2. Accept the Word (v21)
+3. **Act, Don't Just Listen** <span class="hl2">(v22-24)</span>
+4. Abide and Obey (v25)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-713355-amulet.jpg" -->
@@ -191,7 +208,11 @@ and immediately **forgets** what he looks like.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## Outline
+## A Change of Heart
+1. Shun Anger (v19-20)
+2. Accept the Word (v21)
+3. Act, Don't Just Listen (v22-24)
+4. **Abide and Obey** <span class="hl2">(v25)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
@@ -270,11 +291,15 @@ they will be **blessed** in what they **do**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q4
+# Do I **persevere** to <br/> **study** and **obey** <br/> the Word of God?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## Outline
+## A Change of Heart
+1. Shun **Anger** <span class="hl2">(v19-20)</span>
+2. **Accept** the Word <span class="hl2">(v21)</span>
+3. **Act**, Don't Just Listen <span class="hl2">(v22-24)</span>
+4. **Abide** and Obey <span class="hl2">(v25)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" class="empty" -->
