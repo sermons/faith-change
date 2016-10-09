@@ -57,11 +57,11 @@ they will be **blessed** in what they **do**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## Keep the Faith: A Change of Heart
-1. Slow to **Anger** <span class="hl2">(v19-20)</span>
+## A Change of Heart
+1. Shun **Anger** <span class="hl2">(v19-20)</span>
 2. **Accept** the Word <span class="hl2">(v21)</span>
-3. Not Just **Hearing** <span class="hl2">(v22-24)</span>
-4. Looking **Intently** and **Doing** <span class="hl2">(v25)</span>
+3. **Act**, Don't Just Listen <span class="hl2">(v22-24)</span>
+4. **Abide** <span class="hl2">(v25)</span>
 
 ---
 <span class="hl2">19</span>
@@ -226,7 +226,7 @@ into the perfect law that gives freedom,
 
 >>>
 + **power** of God's Word:
-  + compete + **freedom** from sin
+  + complete + **freedom** from sin
 + 4 steps response to Bible:
   + study &rarr; persevere &rarr;
   + remember &rarr; do
