@@ -9,11 +9,11 @@
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## James: **Keep the Faith**
-1. Stands the **Test** <span class="hl2">(1:2-12)</span>
++ Stands the **Test** <span class="hl2">(1:2-12)</span>
   + *Joy* in Trials
   + *Wisdom* Given Generously
   + *Boasting* in Our Weakness
-2. Demands a **Change** of Heart <span class="hl2">(1:19-25)</span>
++ Demands a **Change** of Heart <span class="hl2">(1:19-25)</span>
 
 ---
 ## James 1:19-20 <small>(NIV) (p.1/4)</small>
