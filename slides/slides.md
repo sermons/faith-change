@@ -64,6 +64,7 @@ they will be **blessed** in what they **do**.
 4. **Abide** <span class="hl2">(v25)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bethanypetrik-crying_child.jpg" -->
 <span class="hl2">19</span>
 Everyone should be **quick to listen**, <br/>
 **slow to speak** and **slow to become angry**
@@ -77,24 +78,24 @@ Everyone should be **quick to listen**, <br/>
   + vindication, indignation
   + feeling **wronged**
 + e.g. driving seek excuse to honk
-+ TODO: bg: ear
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Caravaggio_Christ_expulses_money_changers.jpg" -->
 <span class="hl2">Jn 2:17</span>
 **Zeal** for Your house will consume Me
 
 >>>
 + But didn't Jesus get angry?
 + did not **sin** in His anger
-+ TODO: bg: Jesus clearing temple
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 <span class="hl2">20 <small>(NASB)</small></span>
 the **anger of man** does not achieve <br/>
 the **righteousness of God**
 
 >>>
-+ TODO: bg: sky, stars + earth
++ God's ways **higher** than ours
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -105,9 +106,14 @@ the **righteousness of God**
 ## Outline
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/flickr-plasticrevolver-228226305-muddy_kid.jpg" -->
 <span class="hl2">21</span>
 Get rid of all **moral filth** <br/>
 and the **evil** that is so prevalent
+
+<div class="caption">
+[(img &copy; 2006 David K, CC-BY-SA 2.0)](https://www.flickr.com/photos/plasticrevolver/228226305/)
+</div>
 
 >>>
 + *moral filth*: defiled, unclean
@@ -116,9 +122,9 @@ and the **evil** that is so prevalent
   + dirt can be **washed** away
   + not a **part** of you
   + but often **returns**
-+ TODO: bg: mud, dirty face
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
 <span class="hl2">21</span>
 **humbly accept** the word **planted** in you, <br/>
 which can **save** you.
@@ -128,7 +134,6 @@ which can **save** you.
   + not low of mind
 + *accept*: welcome, invite in
 + *save you* (ψυχὰς): your psyche, life, true person
-+ TODO: bg: plant, shoot
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -145,18 +150,20 @@ which can **save** you.
 ## Outline
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-713355-amulet.jpg" -->
 <span class="hl2">22</span>
 Do not merely **listen** to the word, <br/>
 and so **deceive** yourselves. **Do** what it says.
 
 >>>
-+ magic talisman
++ magic amulet/talisman
+  + to ward off harm
 + What kind of church-goer are you:
   + listener of the Word
   + or **doer** of the Word?
-+ TODO: bg: necklace, jewelry
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zldz46wahbE-back_mirror.jpg" -->
 <span class="hl2">24</span>
 after **looking** at himself, goes away <br/>
 and immediately **forgets** what he looks like.
@@ -167,12 +174,16 @@ and immediately **forgets** what he looks like.
 + Word reveals our true **nature**
 + *forgets*: overlook, disregard
 + *looks like* (ὁποῖος ἦν): what sort he was
-+ TODO: bg: face in mirror
 
 ---
+<div class="imgbox"><div>
+![car](img/fig/sentra.jpg)
+</div><div>
+![manual](img/fig/ownersmanual.jpg)
+</div></div>
 
 >>>
-+ TODO: car, owner's manual
++ Bible as **owner's manual**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -183,6 +194,7 @@ and immediately **forgets** what he looks like.
 ## Outline
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
 <span class="hl2">25</span>
 But whoever looks intently <br/>
 into the **perfect law** that gives **freedom**,
@@ -195,9 +207,9 @@ into the **perfect law** that gives **freedom**,
   + *freedom*: **fences** bring freedom
 + the **law** gives **freedom**?
   + Jesus said so, too:
-+ TODO: bg: Bible
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 <span class="hl2">John 8:31</span>
 If you hold to my **teaching**, <br/>
 you are really my **disciples**.
@@ -211,6 +223,7 @@ and the truth will set you **free**.
 + free from what?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 <span class="hl2">John 8:34</span>
 Very truly I tell you, <br/>
 everyone who **sins** is a **slave** to sin.
@@ -220,6 +233,7 @@ So if the **Son** sets you free, <br/>
 you will be **free indeed**.
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BM0y9zmkA1M-eye.jpg" -->
 <span class="hl2">25</span>
 But whoever **looks intently** <br/>
 into the perfect law that gives freedom,
@@ -235,6 +249,7 @@ into the perfect law that gives freedom,
   + not **rush** to finish
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8TJbrQGKFyU-hiking.jpg" -->
 <span class="hl2">25</span>
 and **continues** in it — <br/>
 not **forgetting** what they have heard,
@@ -242,9 +257,9 @@ not **forgetting** what they have heard,
 >>>
 + *continue*: remain, persevere
 + *forgetting*: memory, notice, value
-+ TODO: bg: notebook? running?
 
----
+--
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
 <span class="hl2">25</span>
 but **doing** it — <br/>
 they will be **blessed** in what they **do**.
@@ -252,7 +267,6 @@ they will be **blessed** in what they **do**.
 >>>
 + *doing*: perform, accomplish, fulfill
 + *blessed* as we *do* God's Word
-+ TODO: bg: construction, hands?
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
