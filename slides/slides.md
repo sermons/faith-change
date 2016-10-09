@@ -9,11 +9,11 @@
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## James: **Keep the Faith**
-+ Faith that Stands the **Test** <span class="hl2">(1:2-12)</span>
+1. Stands the **Test** <span class="hl2">(1:2-12)</span>
   + *Joy* in Trials
   + *Wisdom* Given Generously
   + *Boasting* in Our Weakness
-+ Faith that Demands a **Change** of Heart <span class="hl2">(1:19-25)</span>
+2. Demands a **Change** of Heart <span class="hl2">(1:19-25)</span>
 
 ---
 ## James 1:19-20 <small>(NIV) (p.1/4)</small>
@@ -218,7 +218,7 @@ and immediately **forgets** what he looks like.
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 <span class="hl2">25</span>
 But whoever looks intently <br/>
-into the **perfect law** that gives **freedom**,
+into the **perfect law** that gives **freedom** ...
 
 >>>
 + **What** is the Bible?
