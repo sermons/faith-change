@@ -2,7 +2,7 @@
  * Local styles specific to my presentations
  *********************************************/
 
-.reveal section { font-size: 3em; } /* issue #20 */
+html { font-size: 3em; } /* issue #20 */
 
 /* Override slide centering (interferes with print-pdf?) */
 @media screen {
