@@ -9,28 +9,28 @@
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## James: **Keep the Faith**
-+ Stands the **Test** <span class="hl2">(1:2-12)</span>
++ Stands the **Test** <span class="ref">(1:2-12)</span>
   + *Joy* in Trials
   + *Wisdom* Given Generously
   + *Boasting* in Our Weakness
-+ Demands a **Change** of Heart <span class="hl2">(1:19-25)</span>
++ Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
 
 ---
-## James 1:19-20 <small>(NIV) (p.1/4)</small>
-<span class="hl2">19</span>
+## James 1:19-20 <span class="ref">(NIV) (p.1/4)</span>
+<span class="ref">19</span>
 My dear brothers and sisters, <br/>
 **take note** of this:
 
 Everyone should be **quick to listen**, <br/>
 **slow to speak** and **slow to become angry**,
 
-<span class="hl2">20</span>
+<span class="ref">20</span>
 because **human anger** does not produce <br/>
 the **righteousness** that **God** desires.
 
 ---
-## James 1:21 <small>(NIV) (p.2/4)</small>
-<span class="hl2">21</span>
+## James 1:21 <span class="ref">(NIV) (p.2/4)</span>
+<span class="ref">21</span>
 Therefore, get rid of all **moral filth** <br/>
 and the **evil** that is so prevalent
 
@@ -38,23 +38,23 @@ and **humbly accept** the word **planted** in you, <br/>
 which can **save** you.
 
 ---
-## James 1:22-24 <small>(NIV) (p.3/4)</small>
-<span class="hl2">22</span>
+## James 1:22-24 <span class="ref">(NIV) (p.3/4)</span>
+<span class="ref">22</span>
 Do not merely **listen** to the word, <br/>
 and so **deceive** yourselves. **Do** what it says.
 
-<span class="hl2">22</span>
+<span class="ref">22</span>
 Anyone who **listens** to the word <br/>
 but does not **do** what it says
 
 is like someone who looks at his **face** in a mirror <br/>
-<span class="hl2">24</span>
+<span class="ref">24</span>
 and, after **looking** at himself, goes away <br/>
 and immediately **forgets** what he looks like.
 
 ---
-## James 1:25 <small>(NIV) (p.4/4)</small>
-<span class="hl2">25</span>
+## James 1:25 <span class="ref">(NIV) (p.4/4)</span>
+<span class="ref">25</span>
 But whoever **looks intently** <br/>
 into the **perfect law** that gives **freedom**,
 
@@ -67,14 +67,14 @@ they will be **blessed** in what they **do**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## A Change of Heart
-1. Shun **Anger** <span class="hl2">(v19-20)</span>
-2. **Accept** the Word <span class="hl2">(v21)</span>
-3. **Act**, Don't Just Listen <span class="hl2">(v22-24)</span>
-4. **Abide** and Obey <span class="hl2">(v25)</span>
+1. Shun **Anger** <span class="ref">(v19-20)</span>
+2. **Accept** the Word <span class="ref">(v21)</span>
+3. **Act**, Don't Just Listen <span class="ref">(v22-24)</span>
+4. **Abide** and Obey <span class="ref">(v25)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bethanypetrik-crying_child.jpg" -->
-<span class="hl2">19</span>
+<span class="ref">19</span>
 Everyone should be **quick to listen**, <br/>
 **slow to speak** and **slow to become angry**
 
@@ -90,7 +90,7 @@ Everyone should be **quick to listen**, <br/>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Caravaggio_Christ_expulses_money_changers.jpg" -->
-<span class="hl2">Jn 2:17</span>
+<span class="ref">Jn 2:17</span>
 **Zeal** for Your house will consume Me
 
 >>>
@@ -99,7 +99,7 @@ Everyone should be **quick to listen**, <br/>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
-<span class="hl2">20 <small>(NASB)</small></span>
+<span class="ref">20 (NASB)</span>
 the **anger of man** does not achieve <br/>
 the **righteousness of God**
 
@@ -114,13 +114,13 @@ the **righteousness of God**
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## A Change of Heart
 1. Shun Anger (v19-20)
-2. **Accept the Word** <span class="hl2">(v21)</span>
+2. **Accept the Word** <span class="ref">(v21)</span>
 3. Act, Don't Just Listen (v22-24)
 4. Abide and Obey (v25)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/flickr-plasticrevolver-228226305-muddy_kid.jpg" -->
-<span class="hl2">21</span>
+<span class="ref">21</span>
 Get rid of all **moral filth** <br/>
 and the **evil** that is so prevalent
 
@@ -138,7 +138,7 @@ and the **evil** that is so prevalent
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
-<span class="hl2">21</span>
+<span class="ref">21</span>
 **humbly accept** the word **planted** in you, <br/>
 which can **save** you.
 
@@ -163,12 +163,12 @@ which can **save** you.
 ## A Change of Heart
 1. Shun Anger (v19-20)
 2. Accept the Word (v21)
-3. **Act, Don't Just Listen** <span class="hl2">(v22-24)</span>
+3. **Act, Don't Just Listen** <span class="ref">(v22-24)</span>
 4. Abide and Obey (v25)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-713355-amulet.jpg" -->
-<span class="hl2">22</span>
+<span class="ref">22</span>
 Do not merely **listen** to the word, <br/>
 and so **deceive** yourselves. **Do** what it says.
 
@@ -181,7 +181,7 @@ and so **deceive** yourselves. **Do** what it says.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zldz46wahbE-back_mirror.jpg" -->
-<span class="hl2">24</span>
+<span class="ref">24</span>
 after **looking** at himself, goes away <br/>
 and immediately **forgets** what he looks like.
 
@@ -212,11 +212,11 @@ and immediately **forgets** what he looks like.
 1. Shun Anger (v19-20)
 2. Accept the Word (v21)
 3. Act, Don't Just Listen (v22-24)
-4. **Abide and Obey** <span class="hl2">(v25)</span>
+4. **Abide and Obey** <span class="ref">(v25)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
-<span class="hl2">25</span>
+<span class="ref">25</span>
 But whoever looks intently <br/>
 into the **perfect law** that gives **freedom** ...
 
@@ -231,11 +231,11 @@ into the **perfect law** that gives **freedom** ...
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-<span class="hl2">John 8:31</span>
+<span class="ref">John 8:31</span>
 If you hold to my **teaching**, <br/>
 you are really my **disciples**.
 
-<span class="hl2">32</span>
+<span class="ref">32</span>
 Then you will know the **truth**, <br/>
 and the truth will set you **free**.
 
@@ -245,17 +245,17 @@ and the truth will set you **free**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-<span class="hl2">John 8:34</span>
+<span class="ref">John 8:34</span>
 Very truly I tell you, <br/>
 everyone who **sins** is a **slave** to sin.
 
-... <span class="hl2">36</span>
+... <span class="ref">36</span>
 So if the **Son** sets you free, <br/>
 you will be **free indeed**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BM0y9zmkA1M-eye.jpg" -->
-<span class="hl2">25</span>
+<span class="ref">25</span>
 But whoever **looks intently** <br/>
 into the perfect law that gives freedom,
 
@@ -271,7 +271,7 @@ into the perfect law that gives freedom,
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8TJbrQGKFyU-hiking.jpg" -->
-<span class="hl2">25</span>
+<span class="ref">25</span>
 and **continues** in it — <br/>
 not **forgetting** what they have heard,
 
@@ -281,7 +281,7 @@ not **forgetting** what they have heard,
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
-<span class="hl2">25</span>
+<span class="ref">25</span>
 but **doing** it — <br/>
 they will be **blessed** in what they **do**.
 
@@ -299,10 +299,10 @@ they will be **blessed** in what they **do**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## A Change of Heart
-1. Shun **Anger** <span class="hl2">(v19-20)</span>
-2. **Accept** the Word <span class="hl2">(v21)</span>
-3. **Act**, Don't Just Listen <span class="hl2">(v22-24)</span>
-4. **Abide** and Obey <span class="hl2">(v25)</span>
+1. Shun **Anger** <span class="ref">(v19-20)</span>
+2. **Accept** the Word <span class="ref">(v21)</span>
+3. **Act**, Don't Just Listen <span class="ref">(v22-24)</span>
+4. **Abide** and Obey <span class="ref">(v25)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" class="empty" -->
