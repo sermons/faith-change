@@ -36,7 +36,7 @@ html { font-size: 3em; } /* issue #20 */
 
 /* Image captions */
 .reveal section .caption {
-  font-size: 50%;
+  font-size: 0.45rem;
   color: #aaa;
 }
 
@@ -49,3 +49,8 @@ html { font-size: 3em; } /* issue #20 */
 #header { top: 0; }
 #footer { bottom: 0; }
 
+/* Placeholder if Javascript is disabled */
+noscript .noscript {
+  padding: 20% 5%;
+  text-align: center;
+}
