@@ -1,13 +1,12 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> id="title" -->
 # Faith that Demands a Change of Heart
 ## James 1:19-25
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Am I willing <br/> to **change** when <br/> God tells me to?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## James: **Keep the Faith**
 + Stands the **Test** <span class="ref">(1:2-12)</span>
   + *Joy* in Trials
