@@ -15,45 +15,48 @@
 + Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
 
 ---
-## James 1:19-20 <span class="ref">(NIV) (p.1/4)</span>
-<span class="ref">19</span>
+[19](# "ref")
 My dear brothers and sisters, <br/>
 **take note** of this:
 
 Everyone should be **quick to listen**, <br/>
 **slow to speak** and **slow to become angry**,
 
-<span class="ref">20</span>
+[20](# "ref")
 because **human anger** does not produce <br/>
 the **righteousness** that **God** desires.
 
+[James 1:19-20 (NIV) (p.1/4)](# "ref")
+
 ---
-## James 1:21 <span class="ref">(NIV) (p.2/4)</span>
-<span class="ref">21</span>
+[21](# "ref")
 Therefore, get rid of all **moral filth** <br/>
 and the **evil** that is so prevalent
 
-and **humbly accept** the word **planted** in you, <br/>
+and **humbly accept** <br>
+the word **planted** in you, <br/>
 which can **save** you.
 
+[James 1:21 (NIV) (p.2/4)](# "ref")
+
 ---
-## James 1:22-24 <span class="ref">(NIV) (p.3/4)</span>
-<span class="ref">22</span>
+[22](# "ref")
 Do not merely **listen** to the word, <br/>
 and so **deceive** yourselves. **Do** what it says.
 
-<span class="ref">22</span>
+[23](# "ref")
 Anyone who **listens** to the word <br/>
 but does not **do** what it says
 
 is like someone who looks at his **face** in a mirror <br/>
-<span class="ref">24</span>
+[24](# "ref")
 and, after **looking** at himself, goes away <br/>
 and immediately **forgets** what he looks like.
 
+[James 1:22-24 (NIV) (p.3/4)](# "ref")
+
 ---
-## James 1:25 <span class="ref">(NIV) (p.4/4)</span>
-<span class="ref">25</span>
+[25](# "ref")
 But whoever **looks intently** <br/>
 into the **perfect law** that gives **freedom**,
 
@@ -63,13 +66,17 @@ but **doing** it —
 
 they will be **blessed** in what they **do**.
 
+[James 1:25 (NIV) (p.4/4)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## A Change of Heart
-1. Shun **Anger** <span class="ref">(v19-20)</span>
-2. **Accept** the Word <span class="ref">(v21)</span>
-3. **Act**, Don't Just Listen <span class="ref">(v22-24)</span>
-4. **Abide** and Obey <span class="ref">(v25)</span>
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> id="outline" -->
+## Change of Heart [Jam 1b](# "ref")
+1. Shun **Anger** [(v19-20)](# "ref")
+2. **Accept** the Word [(v21)](# "ref")
+3. **Act**, Don't Just Listen [(v22-24)](# "ref")
+4. **Abide** and Obey [(v25)](# "ref")
+
+<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bethanypetrik-crying_child.jpg" -->
@@ -106,16 +113,18 @@ the **righteousness of God**
 + God's ways **higher** than ours
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Have I been <br/> quick to **listen**, <br/> slow to **speak**, and <br/> slow to **anger**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## A Change of Heart
-1. Shun Anger (v19-20)
-2. **Accept the Word** <span class="ref">(v21)</span>
-3. Act, Don't Just Listen (v22-24)
-4. Abide and Obey (v25)
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
+## Change of Heart [Jam 1b](# "ref")
+1. Shun Anger [(v19-20)](# "ref")
+2. **Accept the Word** [(v21)](# "ref")
+3. Act, Don't Just Listen [(v22-24)](# "ref")
+4. Abide and Obey [(v25)](# "ref")
+
+<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/flickr-plasticrevolver-228226305-muddy_kid.jpg" -->
@@ -148,7 +157,7 @@ which can **save** you.
 + *save you* (ψυχὰς): your psyche, life, true person
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # How do I **react** to <br/> discipline from <br/> the **Word** of God?
 
 >>>
@@ -158,12 +167,14 @@ which can **save** you.
 + Word of **God**, not human authority
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## A Change of Heart
-1. Shun Anger (v19-20)
-2. Accept the Word (v21)
-3. **Act, Don't Just Listen** <span class="ref">(v22-24)</span>
-4. Abide and Obey (v25)
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
+## Change of Heart [Jam 1b](# "ref")
+1. Shun Anger [(v19-20)](# "ref")
+2. Accept the Word [(v21)](# "ref")
+3. **Act, Don't Just Listen** [(v22-24)](# "ref")
+4. Abide and Obey [(v25)](# "ref")
+
+<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-713355-amulet.jpg" -->
@@ -202,16 +213,18 @@ and immediately **forgets** what he looks like.
 + Bible as **owner's manual**
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Is the Bible <br/> a magic **amulet** <br/> or our <br/> owner's **manual**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## A Change of Heart
-1. Shun Anger (v19-20)
-2. Accept the Word (v21)
-3. Act, Don't Just Listen (v22-24)
-4. **Abide and Obey** <span class="ref">(v25)</span>
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
+## Change of Heart [Jam 1b](# "ref")
+1. Shun Anger [(v19-20)](# "ref")
+2. Accept the Word [(v21)](# "ref")
+3. Act, Don't Just Listen [(v22-24)](# "ref")
+4. **Abide and Obey** [(v25)](# "ref")
+
+<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
@@ -292,16 +305,8 @@ they will be **blessed** in what they **do**.
   + **unstained** by world
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Do I **persevere** to <br/> **study** and **obey** <br/> the Word of God?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## A Change of Heart
-1. Shun **Anger** <span class="ref">(v19-20)</span>
-2. **Accept** the Word <span class="ref">(v21)</span>
-3. **Act**, Don't Just Listen <span class="ref">(v22-24)</span>
-4. **Abide** and Obey <span class="ref">(v25)</span>
-
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> class="empty" -->
