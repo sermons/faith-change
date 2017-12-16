@@ -136,9 +136,7 @@ and the **evil** that is so prevalent
 
 [James 1:21 (NIV)](# "ref")
 
-<div class="caption">
-[&copy; 2006 David K, CC-BY-SA 2.0](https://www.flickr.com/photos/plasticrevolver/228226305/)
-</div>
+[&copy; 2006 David K, CC-BY-SA 2.0](https://www.flickr.com/photos/plasticrevolver/228226305/ "caption")
 
 >>>
 + *moral filth*: defiled, unclean
@@ -182,10 +180,13 @@ which can **save** you.
 <!-- .element: class="outline" -->
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-713355-amulet.jpg" -->
-<span class="ref">22</span>
+<!-- .slide: <%= bg("pixabay-713355-amulet.jpg") %> -->
 Do not merely **listen** to the word, <br/>
-and so **deceive** yourselves. **Do** what it says.
+and so **deceive** yourselves.
+
+**Do** what it says.
+
+[James 1:22 (NIV)](# "ref")
 
 >>>
 + magic amulet/talisman
@@ -195,10 +196,11 @@ and so **deceive** yourselves. **Do** what it says.
   + or **doer** of the Word?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zldz46wahbE-back_mirror.jpg" -->
-<span class="ref">24</span>
+<!-- .slide: <%= bg("unsplash-Zldz46wahbE-back_mirror.jpg") %> -->
 after **looking** at himself, goes away <br/>
 and immediately **forgets** what he looks like.
+
+[James 1:24 (NIV)](# "ref")
 
 >>>
 + *looking* (κατανοοῦντι): study carefully
@@ -232,10 +234,11 @@ and immediately **forgets** what he looks like.
 <!-- .element: class="outline" -->
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
-<span class="ref">25</span>
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 But whoever looks intently <br/>
 into the **perfect law** that gives **freedom** ...
+
+[James 1:25 (NIV)](# "ref")
 
 >>>
 + **What** is the Bible?
@@ -247,34 +250,39 @@ into the **perfect law** that gives **freedom** ...
   + Jesus said so, too:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-<span class="ref">John 8:31</span>
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 If you hold to my **teaching**, <br/>
 you are really my **disciples**.
 
-<span class="ref">32</span>
+[32](# "ref")
 Then you will know the **truth**, <br/>
 and the truth will set you **free**.
+
+[John 8:31-32 (NIV) (p.1/2)](# "ref")
 
 >>>
 + *hold to* His *teaching*
 + free from what?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-<span class="ref">John 8:34</span>
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+[34](# "ref")
 Very truly I tell you, <br/>
 everyone who **sins** is a **slave** to sin.
 
-... <span class="ref">36</span>
+... 
+[36](# "ref")
 So if the **Son** sets you free, <br/>
 you will be **free indeed**.
 
+[John 8:34, 36 (NIV) (p.1/2)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BM0y9zmkA1M-eye.jpg" -->
-<span class="ref">25</span>
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> -->
 But whoever **looks intently** <br/>
 into the perfect law that gives freedom,
+
+[James 1:25 (NIV)](# "ref")
 
 >>>
 + **power** of God's Word:
@@ -287,20 +295,22 @@ into the perfect law that gives freedom,
   + not **rush** to finish
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8TJbrQGKFyU-hiking.jpg" -->
-<span class="ref">25</span>
+<!-- .slide: <%= bg("unsplash-8TJbrQGKFyU-hiking.jpg") %> -->
 and **continues** in it — <br/>
 not **forgetting** what they have heard,
+
+[James 1:25 (NIV)](# "ref")
 
 >>>
 + *continue*: remain, persevere
 + *forgetting*: memory, notice, value
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
-<span class="ref">25</span>
+<!-- .slide: <%= bg("unsplash-NEgEJmN3JZo-boardwalk_grass.jpg") %> -->
 but **doing** it — <br/>
 they will be **blessed** in what they **do**.
+
+[James 1:25 (NIV)](# "ref")
 
 >>>
 + *doing*: perform, accomplish, fulfill
