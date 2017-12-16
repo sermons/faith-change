@@ -270,7 +270,7 @@ and the truth will set you **free**.
 Very truly I tell you, <br/>
 everyone who **sins** is a **slave** to sin.
 
-... 
+...
 [36](# "ref")
 So if the **Son** sets you free, <br/>
 you will be **free indeed**.
@@ -322,6 +322,19 @@ they will be **blessed** in what they **do**.
 ---
 <!-- .slide: data-background="white" -->
 # Do I **persevere** to <br/> **study** and **obey** <br/> the Word of God?
+
+---
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
+But whoever **looks intently** <br/>
+into the **perfect law** that gives **freedom**,
+
+and **continues** in it — <br/>
+not **forgetting** what they have heard, <br/>
+but **doing** it —
+
+they will be **blessed** in what they **do**.
+
+[James 1:25 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> class="empty" -->
