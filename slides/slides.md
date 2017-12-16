@@ -130,13 +130,14 @@ the **righteousness of God**
 <!-- .element: class="outline" -->
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/flickr-plasticrevolver-228226305-muddy_kid.jpg" -->
-<span class="ref">21</span>
+<!-- .slide: <%= bg("flickr-plasticrevolver-228226305-muddy_kid.jpg") -->
 Get rid of all **moral filth** <br/>
 and the **evil** that is so prevalent
 
+[James 1:21 (NIV)](# "ref")
+
 <div class="caption">
-[(img &copy; 2006 David K, CC-BY-SA 2.0)](https://www.flickr.com/photos/plasticrevolver/228226305/)
+[&copy; 2006 David K, CC-BY-SA 2.0](https://www.flickr.com/photos/plasticrevolver/228226305/)
 </div>
 
 >>>
@@ -148,10 +149,11 @@ and the **evil** that is so prevalent
   + but often **returns**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-x8MZ2MoEKLE-stump-shoot.jpg" -->
-<span class="ref">21</span>
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") -->
 **humbly accept** the word **planted** in you, <br/>
 which can **save** you.
+
+[James 1:21 (NIV)](# "ref")
 
 >>>
 + *humbly* (πραΰτητι): gentle, meek
