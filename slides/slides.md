@@ -79,10 +79,11 @@ they will be **blessed** in what they **do**.
 <!-- .element: class="outline" -->
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bethanypetrik-crying_child.jpg" -->
-<span class="ref">19</span>
+<!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") -->
 Everyone should be **quick to listen**, <br/>
 **slow to speak** and **slow to become angry**
+
+[James 1:19 (NIV)](# "ref")
 
 >>>
 + *take note*: look, know (impr)
@@ -95,19 +96,21 @@ Everyone should be **quick to listen**, <br/>
 + e.g. driving seek excuse to honk
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Caravaggio_Christ_expulses_money_changers.jpg" -->
-<span class="ref">Jn 2:17</span>
+<!-- .slide: <%= bg("wm-Caravaggio_Christ_expulses_money_changers.jpg") -->
 **Zeal** for Your house will consume Me
+
+[John 2:17 (NIV)](# "ref")
 
 >>>
 + But didn't Jesus get angry?
 + did not **sin** in His anger
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
-<span class="ref">20 (NASB)</span>
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") -->
 the **anger of man** does not achieve <br/>
 the **righteousness of God**
+
+[James 1:20 (NIV)](# "ref")
 
 >>>
 + God's ways **higher** than ours
