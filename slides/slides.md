@@ -79,7 +79,7 @@ they will be **blessed** in what they **do**.
 <!-- .element: class="outline" -->
 
 ---
-<!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") -->
+<!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> -->
 Everyone should be **quick to listen**, <br/>
 **slow to speak** and **slow to become angry**
 
@@ -96,7 +96,7 @@ Everyone should be **quick to listen**, <br/>
 + e.g. driving seek excuse to honk
 
 ---
-<!-- .slide: <%= bg("wm-Caravaggio_Christ_expulses_money_changers.jpg") -->
+<!-- .slide: <%= bg("wm-Caravaggio_Christ_expulses_money_changers.jpg") %> -->
 **Zeal** for Your house will consume Me
 
 [John 2:17 (NIV)](# "ref")
@@ -106,7 +106,7 @@ Everyone should be **quick to listen**, <br/>
 + did not **sin** in His anger
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") -->
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 the **anger of man** does not achieve <br/>
 the **righteousness of God**
 
@@ -130,7 +130,7 @@ the **righteousness of God**
 <!-- .element: class="outline" -->
 
 ---
-<!-- .slide: <%= bg("flickr-plasticrevolver-228226305-muddy_kid.jpg") -->
+<!-- .slide: <%= bg("flickr-plasticrevolver-228226305-muddy_kid.jpg") %> -->
 Get rid of all **moral filth** <br/>
 and the **evil** that is so prevalent
 
@@ -149,7 +149,7 @@ and the **evil** that is so prevalent
   + but often **returns**
 
 ---
-<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") -->
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 **humbly accept** the word **planted** in you, <br/>
 which can **save** you.
 
