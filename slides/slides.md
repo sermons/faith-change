@@ -132,13 +132,11 @@ the **righteousness of God**
 <!-- .element: class="outline" -->
 
 ---
-<!-- .slide: <%= bg("flickr-plasticrevolver-228226305-muddy_kid.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
 Get rid of all **moral filth** <br/>
 and the **evil** that is so prevalent
 
 [James 1:21 (NIV)](# "ref")
-
-[&copy; 2006 David K, CC-BY-SA 2.0](https://www.flickr.com/photos/plasticrevolver/228226305/ "caption")
 
 >>>
 + *moral filth*: defiled, unclean
