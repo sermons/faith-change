@@ -3,16 +3,18 @@
 ## James 1:19-25
 
 ---
-<!-- .slide: data-background="white" -->
-# Am I willing <br/> to **change** when <br/> God tells me to?
-
----
 ## James: **Keep the Faith**
 + Stands the **Test** <span class="ref">(1:2-12)</span>
   + *Joy* in Trials
   + *Wisdom* Given Generously
   + *Boasting* in Our Weakness
 + Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
+
+---
+<!-- .slide: data-background="white" -->
+# Am I willing <br/> to **change** when <br/> God tells me to?
+
+[###](#/outline "secret")
 
 ---
 [19](# "ref")
