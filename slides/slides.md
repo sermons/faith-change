@@ -22,12 +22,12 @@
 My dear brothers and sisters, <br/>
 **take note** of this:
 
-Everyone should be **quick to listen**, <br/>
-**slow to speak** and **slow to become angry**,
+Everyone should be quick to **listen**, <br/>
+slow to **speak** and slow to become **angry**,
 
 [20](# "ref")
 because **human anger** does not produce <br/>
-the **righteousness** that **God** desires.
+the **righteousness** that God desires.
 
 [James 1:19-20 (NIV) (p.1/4)](# "ref")
 
@@ -81,8 +81,8 @@ they will be **blessed** in what they **do**.
 
 ---
 <!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> -->
-Everyone should be **quick to listen**, <br/>
-**slow to speak** and **slow to become angry**
+Everyone should be quick to **listen**, <br/>
+slow to **speak** and slow to become **angry**
 
 [James 1:19 (NIV)](# "ref")
 
