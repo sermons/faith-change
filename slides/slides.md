@@ -111,7 +111,7 @@ slow to **speak** and slow to become **angry**
 the **anger of man** does not achieve <br/>
 the **righteousness of God**
 
-[James 1:20 (NIV)](# "ref")
+[James 1:20 (NASB)](# "ref")
 
 >>>
 + God's ways **higher** than ours
