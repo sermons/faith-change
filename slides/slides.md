@@ -3,6 +3,7 @@
 ## James 1:19-25
 
 ---
+<!-- .slide: class="outline" -->
 ## James: **Keep the Faith**
 + Stands the **Test** <span class="ref">(1:2-12)</span>
   + *Joy* in Trials
@@ -21,12 +22,12 @@
 My dear brothers and sisters, <br/>
 **take note** of this:
 
-Everyone should be **quick to listen**, <br/>
-**slow to speak** and **slow to become angry**,
+Everyone should be quick to **listen**, <br/>
+slow to **speak** and slow to become **angry**,
 
 [20](# "ref")
 because **human anger** does not produce <br/>
-the **righteousness** that **God** desires.
+the **righteousness** that God desires.
 
 [James 1:19-20 (NIV) (p.1/4)](# "ref")
 
@@ -71,19 +72,17 @@ they will be **blessed** in what they **do**.
 [James 1:25 (NIV) (p.4/4)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> id="outline" class="outline" -->
 ## Change of Heart [Jam 1b](# "ref")
 1. Shun **Anger** [(v19-20)](# "ref")
 2. **Accept** the Word [(v21)](# "ref")
 3. **Act**, Don't Just Listen [(v22-24)](# "ref")
 4. **Abide** and Obey [(v25)](# "ref")
 
-<!-- .element: class="outline" -->
-
 ---
 <!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> -->
-Everyone should be **quick to listen**, <br/>
-**slow to speak** and **slow to become angry**
+Everyone should be quick to **listen**, <br/>
+slow to **speak** and slow to become **angry**
 
 [James 1:19 (NIV)](# "ref")
 
@@ -112,7 +111,7 @@ Everyone should be **quick to listen**, <br/>
 the **anger of man** does not achieve <br/>
 the **righteousness of God**
 
-[James 1:20 (NIV)](# "ref")
+[James 1:20 (NASB)](# "ref")
 
 >>>
 + God's ways **higher** than ours
@@ -122,14 +121,12 @@ the **righteousness of God**
 # Have I been <br/> quick to **listen**, <br/> slow to **speak**, and <br/> slow to **anger**?
 
 ---
-<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> class="outline" -->
 ## Change of Heart [Jam 1b](# "ref")
 1. Shun Anger [(v19-20)](# "ref")
 2. **Accept the Word** [(v21)](# "ref")
 3. Act, Don't Just Listen [(v22-24)](# "ref")
 4. Abide and Obey [(v25)](# "ref")
-
-<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
@@ -170,14 +167,12 @@ which can **save** you.
 + Word of **God**, not human authority
 
 ---
-<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> class="outline" -->
 ## Change of Heart [Jam 1b](# "ref")
 1. Shun Anger [(v19-20)](# "ref")
 2. Accept the Word [(v21)](# "ref")
 3. **Act, Don't Just Listen** [(v22-24)](# "ref")
 4. Abide and Obey [(v25)](# "ref")
-
-<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: <%= bg("pixabay-713355-amulet.jpg") %> -->
@@ -224,14 +219,12 @@ and immediately **forgets** what he looks like.
 # Is the Bible <br/> a magic **amulet** <br/> or our <br/> owner's **manual**?
 
 ---
-<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> class="outline" -->
 ## Change of Heart [Jam 1b](# "ref")
 1. Shun Anger [(v19-20)](# "ref")
 2. Accept the Word [(v21)](# "ref")
 3. Act, Don't Just Listen [(v22-24)](# "ref")
 4. **Abide and Obey** [(v25)](# "ref")
-
-<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
