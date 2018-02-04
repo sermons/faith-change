@@ -238,7 +238,7 @@ and immediately **forgets** what he looks like.
 But whoever looks intently <br/>
 into the **perfect law** that gives **freedom** ...
 
-[James 1:25 (NIV)](# "ref")
+[James 1:25a (NIV)](# "ref")
 
 >>>
 + **What** is the Bible?
@@ -275,14 +275,14 @@ everyone who **sins** is a **slave** to sin.
 So if the **Son** sets you free, <br/>
 you will be **free indeed**.
 
-[John 8:34, 36 (NIV) (p.1/2)](# "ref")
+[John 8:34, 36 (NIV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> -->
 But whoever **looks intently** <br/>
 into the perfect law that gives freedom,
 
-[James 1:25 (NIV)](# "ref")
+[James 1:25a (NIV) (p.1/3)](# "ref")
 
 >>>
 + **power** of God's Word:
@@ -299,7 +299,7 @@ into the perfect law that gives freedom,
 and **continues** in it — <br/>
 not **forgetting** what they have heard,
 
-[James 1:25 (NIV)](# "ref")
+[James 1:25b (NIV) (p.2/3)](# "ref")
 
 >>>
 + *continue*: remain, persevere
@@ -310,7 +310,7 @@ not **forgetting** what they have heard,
 but **doing** it — <br/>
 they will be **blessed** in what they **do**.
 
-[James 1:25 (NIV)](# "ref")
+[James 1:25c (NIV) (p.3/3)](# "ref")
 
 >>>
 + *doing*: perform, accomplish, fulfill
